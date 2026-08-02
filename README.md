@@ -1,6 +1,6 @@
 # Allampati Deepak Ram Reddy
 
-Computer Science graduate focused on Artificial Intelligence, Full Stack Development, and Software Engineering.
+B.Tech Computer Science graduate from S.R.M University with interests in Artificial Intelligence, Full Stack Development, and Software Engineering.
 
 I enjoy building practical applications, exploring emerging technologies, and continuously improving my problem-solving skills. This GitHub profile showcases the projects I've developed while learning and growing as a software developer.
 
