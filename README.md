@@ -1,6 +1,6 @@
 # Allampati Deepak Ram Reddy
 
-B.Tech Computer Science graduate from S.R.M University with interests in Artificial Intelligence, Full Stack Development, and Software Engineering.
+B.Tech Graduate specialized in Computer Science from S.R.M University with interests in Artificial Intelligence, Full Stack Development, and Software Engineering.
 
 I enjoy building practical applications, exploring emerging technologies, and continuously improving my problem-solving skills. This GitHub profile showcases the projects I've developed while learning and growing as a software developer.
 
@@ -18,9 +18,8 @@ I enjoy building practical applications, exploring emerging technologies, and co
 
 - Python
 - Java
-- JavaScript
 - C
-- SQL
+- C++
 
 ### Web Development
 
@@ -51,6 +50,13 @@ I enjoy building practical applications, exploring emerging technologies, and co
 - VS Code
 
 ## Featured Projects
+
+### Solvinfi AI
+
+SOLVINFI AI is an intelligent incident management system that detects abnormal events, analyzes their root cause, evaluates severity and escalation, and manages remediation and verification through an end-to-end workflow.
+
+**Technologies**
+Python • Django • FastAPI • Uvicorn • SQLite • HTML • CSS • JavaScript • REST API • Swagger/OpenAPI 
 
 ### EvalGuard
 
