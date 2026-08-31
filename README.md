@@ -57,7 +57,9 @@ SOLVINFI AI is an intelligent incident management system that detects abnormal e
 
 **Technologies**
 Python • Django • FastAPI • Uvicorn • SQLite • HTML • CSS • JavaScript • REST API • Swagger/OpenAPI 
------
+
+---
+
 ### EvalGuard
 
 An AI-powered evaluation framework for assessing Large Language Model (LLM) responses using metrics such as groundedness, relevance, and factual consistency. The project integrates transformer-based models and automated evaluation techniques to analyze AI-generated outputs.
