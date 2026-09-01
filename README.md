@@ -1,6 +1,6 @@
 # Allampati Deepak Ram Reddy
 
-B.Tech Graduate specialized in Computer Science from S.R.M University with interests in Artificial Intelligence, Full Stack Development, and Software Engineering.
+B.Tech Graduate specialized in Computer Science from S.R.M University with interests in Data Analytics, Artificial Intelligence and Full Stack Development.
 
 I enjoy building practical applications, exploring emerging technologies, and continuously improving my problem-solving skills. This GitHub profile showcases the projects I've developed while learning and growing as a software developer.
 
@@ -35,9 +35,10 @@ I enjoy building practical applications, exploring emerging technologies, and co
 - Machine Learning
 - OpenCV
 
-### Data & Analytics
+### Data Analytics
 
 - Power BI
+- Tableau
 - Pandas
 - NumPy
 - SQLite
